@@ -1,5 +1,6 @@
 # Linktree
 
 <p align="center">
-<a><img alt="perfil" src="https://raw.githubusercontent.com/sebastianjnuwu/Linktree/main/public/favicon.png" width=300 height=275></a>
+<a><img alt="perfil" src="https://raw.githubusercontent.com/sebastianjnuwu/Linktree/main/public/favicon.png" width=150 height=145></a>
 </p>
+
