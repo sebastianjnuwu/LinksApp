@@ -16,7 +16,7 @@ const app = new App({
   props: {
     name: 'SEBASTIAN JN',
     username: 'sebastianjnuwu',
-    avatarUrl: 'https://media.discordapp.net/attachments/991506128972304414/995977109551984680/profile-picture.jpg',
+    avatarUrl: 'https://cdn.discordapp.com/avatars/932678185970192404/3bd0aadc9e0aac5bbbd13905e4452e42.png',
     url: [
       {
         name: 'Instagram',
