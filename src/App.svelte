@@ -10,13 +10,13 @@
 <SvelteSeo
   description="LinksApp of @{username}"
   openGraph={{
-    title: `@${username} | Linktree`,
-    description: `Linktree of @${username}`,
+    title: `@${username} | LinksApp`,
+    description: `LinksApp of @${username}`,
     type: `website`,
   }}
   twitter={{
-    title: `@${username} | Linktree`,
-    description: `Linktree of @${username}`,
+    title: `@${username} | LinksApp`,
+    description: `LinksApp of @${username}`,
     site: `@sebastianjnuwu`,
   }}
 />
