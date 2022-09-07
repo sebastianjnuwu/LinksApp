@@ -1,4 +1,4 @@
-# Linktree
+# LinksApp
 
 <p align="center">
 <a><img alt="perfil" src="https://raw.githubusercontent.com/sebastianjnuwu/sebastianjnuwu/main/imagens/dazai.png"
