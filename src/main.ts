@@ -3,11 +3,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import '@fortawesome/fontawesome-free/css/all.min.css';
 import '@fortawesome/fontawesome-free/js/all.min.css';
 import {
-  faGithub,
-  faInstagram,
-  faDiscord,
-  faFacebook,
-  faYoutube,
+  faGithub, faInstagram, faDiscord,
+  faFacebook, faYoutube,
 } from '@fortawesome/free-brands-svg-icons';
 import { faPlayCircle } from '@fortawesome/free-solid-svg-icons';
 
