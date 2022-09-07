@@ -8,7 +8,7 @@
 </script>
 
 <SvelteSeo
-  description="Linktree of @{username}"
+  description="LinksApp of @{username}"
   openGraph={{
     title: `@${username} | Linktree`,
     description: `Linktree of @${username}`,
