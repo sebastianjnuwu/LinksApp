@@ -11,7 +11,7 @@ LinksApp is a customizable tool that allows the creation of a grouping page of l
 
 • cloning or repository :
 ```
-git clone https://github.com/sebastianjnuwu/Linktree
+git clone https://github.com/sebastianjnuwu/LinksApp
 ```
 • installing all dependencies:
 ```
