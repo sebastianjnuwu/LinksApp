@@ -7,8 +7,10 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/sebastianjnuwu/LinksApp/actions/workflows/svelte-check.yml"><img src="https://github.com/sebastianjnuwu/LinksApp/actions/workflows/svelte-check.yml/badge.svg"></a>
-<a href="https://discord.gg/NDzFeDp8YE"><img src="https://discordapp.com/api/guilds/893997835412971570/widget.png"></a>
+ <a href="https://github.com/sebastianjnuwu/LinksApp/actions/workflows/svelte-check.yml"><img src="https://github.com/sebastianjnuwu/LinksApp/actions/workflows/svelte-check.yml/badge.svg">
+ </a>
+  <a href="https://discord.gg/NDzFeDp8YE"><img src="https://discordapp.com/api/guilds/893997835412971570/widget.png">
+  </a>
 </p>
 
 LinksApp is a customizable tool that allows the creation of a grouping page of links and information. 
