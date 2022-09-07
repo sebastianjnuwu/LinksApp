@@ -1,6 +1,6 @@
 {
   "name": "linksapp",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "private": true,
   "scripts": {
     "build": "rollup -c",
@@ -38,5 +38,15 @@
     "svelte-fa": "^3.0.2",
     "svelte-seo": "1.4.1",
     "sveltestrap": "5.9.0"
+  },
+  "engines": {
+     "node": ">=16.9.0"
+  },
+ "repository": {
+    "type": "git",
+    "url": "https://github.com/sebastianjnuwu/LinksApp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sebastianjnuwu/LinksApp/issues"
   }
 }
