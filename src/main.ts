@@ -25,6 +25,11 @@ const app = new App({
         url: 'https://youtube.com/c/SEBASTIANJNUWU',
         icon: faYoutube,
       },
+     {
+        name: 'Github',
+        url: 'https://github.com/sebastianjnuwu',
+        icon: faGithub,
+      },
       {
         name: 'Discord',
         url: 'https://discord.gg/NDzFeDp8YE',
