@@ -4,7 +4,7 @@ import '@fortawesome/fontawesome-free/css/all.min.css';
 import '@fortawesome/fontawesome-free/js/all.min.css';
 import {
   faGithub, faInstagram, faDiscord,
-  faFacebook, faYoutube,
+  faFacebook, faYoutube, faTwitter,
 } from '@fortawesome/free-brands-svg-icons';
 import { faPlayCircle } from '@fortawesome/free-solid-svg-icons';
 
@@ -26,9 +26,9 @@ const app = new App({
         icon: faYoutube,
       },
      {
-        name: 'Github',
-        url: 'https://github.com/sebastianjnuwu',
-        icon: faGithub,
+        name: 'Twitter',
+        url: 'https://twitter.com/sebastianjnuwu',
+        icon: faTwitter,
       },
       {
         name: 'Discord',
