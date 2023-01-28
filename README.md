@@ -2,7 +2,7 @@
 
 <p align="center">
  <a>
-  <img alt="perfil" src="https://raw.githubusercontent.com/sebastianjnuwu/sebastianjnuwu/main/imagens/dazai.png">
+  <img alt="perfil" src="https://raw.githubusercontent.com/sebastianjnuwu/sebastianjnuwu/d864300df6e07477d3912a155433711750bf6bee/imagens/dazai.png">
  </a>
 </p>
 
