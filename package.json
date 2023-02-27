@@ -36,7 +36,7 @@
     "sass": "1.58.3",
     "sirv-cli": "2.0.2",
     "svelte-fa": "^3.0.2",
-    "svelte-seo": "1.5.2",
+    "svelte-seo": "1.5.3",
     "sveltestrap": "5.10.0"
   },
   "engines": {
