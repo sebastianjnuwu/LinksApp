@@ -16,7 +16,7 @@
     "@rollup/plugin-typescript": "11.1.2",
     "@tsconfig/svelte": "^5.0.0",
     "prettier": "2.8.8",
-    "rollup": "3.26.1",
+    "rollup": "3.26.2",
     "rollup-plugin-css-only": "^4.1.0",
     "rollup-plugin-livereload": "^2.0.0",
     "rollup-plugin-svelte": "^7.0.0",
