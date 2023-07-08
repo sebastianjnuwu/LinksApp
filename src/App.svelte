@@ -4,7 +4,6 @@
   import ToggleMode from "./Components/ToggleMode.svelte";
   import SvelteSeo from "svelte-seo";
   export let name: string, username: string, avatarUrl: any, url: any;
-  console.log(url);
 </script>
 
 <SvelteSeo

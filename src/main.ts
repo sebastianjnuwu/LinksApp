@@ -1,7 +1,5 @@
 import App from './App.svelte';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import '@fortawesome/fontawesome-free/css/all.min.css';
-import '@fortawesome/fontawesome-free/js/all.min.css';
 import {
   faGithub, faInstagram, faDiscord, faTiktok,
   faFacebook, faYoutube, faTwitter,
@@ -22,7 +20,7 @@ const app = new App({
       },
       {
         name: 'Youtube',
-        url: 'https://youtube.com/c/SEBASTIANJNUWU',
+        url: 'https://youtube.com/c/@sebastianjnuwu',
         icon: faYoutube,
       },
            {
