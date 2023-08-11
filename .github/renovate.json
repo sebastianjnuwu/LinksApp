@@ -9,7 +9,8 @@
   "packageRules": [{
    "matchPackagePatterns": ["*"],
    "matchUpdateTypes": ["major", "patch"],
-    "labels": ["dependencies"]
+   "labels": ["dependencies"],
+   "automerge": true
    }
  ]
 }
