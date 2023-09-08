@@ -2,7 +2,7 @@ import svelte from 'rollup-plugin-svelte';
 import commonjs from '@rollup/plugin-commonjs';
 import { nodeResolve } from '@rollup/plugin-node-resolve';
 import livereload from 'rollup-plugin-livereload';
-import { terser } from 'rollup-plugin-terser';
+import terser from '@rollup/plugin-terser';
 import sveltePreprocess from 'svelte-preprocess';
 import typescript from '@rollup/plugin-typescript';
 import css from 'rollup-plugin-css-only';
@@ -21,11 +21,8 @@ function serve() {
   return {
     writeBundle() {
       if (server) return;
-      server = bash.spawn(
-        'npm',
-        ['run', 'start', '--', '--dev'],
-        {
-          stdio: ['ignore', 'inherit', 'inherit'],
+      server = bash.spawn('npm', ['run', 'start', '--', '--dev'], {
+      stdio: ['ignore', 'inherit', 'inherit'],
           shell: false,
         }
       );
@@ -34,7 +31,7 @@ function serve() {
       process.on('exit', Kill);
     },
   };
-}
+};
 
 export default {
   input: 'src/main.ts',
@@ -58,14 +55,14 @@ export default {
       exportConditions: ['node'],
       extensions: ['.svelte', '.ts']
     }),
-    babel({ babelHelpers: 'bundled', compact: false  }),
+    babel({ babelHelpers: 'bundled', compact: false }),
     typescript({
       sourceMap: false,
       inlineSources: false,
     }),
     !production && serve(),
     !production && livereload('public'),
-    production && terser(),
+     production && terser(),
   ],
   watch: {
     clearScreen: false,
