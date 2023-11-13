@@ -19,7 +19,7 @@
     "@rollup/plugin-node-resolve": "^15.1.0",
     "@rollup/plugin-typescript": "11.1.5",
     "@tsconfig/svelte": "^5.0.0",
-    "prettier": "3.0.3",
+    "prettier": "3.1.0",
     "rollup": "4.4.0",
     "rollup-plugin-css-only": "^4.1.0",
     "rollup-plugin-livereload": "^2.0.0",
