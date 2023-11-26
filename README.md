@@ -7,10 +7,6 @@
 </p>
 
 <p align="center">
- <a href="https://github.com/sebastianjnuwu/LinksApp/actions/workflows/svelte-check.yml"><img src="https://github.com/sebastianjnuwu/LinksApp/actions/workflows/svelte-check.yml/badge.svg">
- </a>
-  <a href="https://discord.gg/NDzFeDp8YE"><img src="https://discordapp.com/api/guilds/893997835412971570/widget.png">
-  </a>
 <a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsebastianjnuwu%2FLinksApp"><img src="https://vercel.com/button" alt="Deploy with Vercel"/></a>
 </p>
 
