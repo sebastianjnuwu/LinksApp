@@ -31,3 +31,6 @@ yarn start
 
 This repository is [licensed](https://choosealicense.com/licenses/mit/) to protect users and Contributors.
 
+<div align="center">
+<a href="https://www.buymeacoffee.com/sebastianjnuwu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 200px !important;" ></a>
+</div>
