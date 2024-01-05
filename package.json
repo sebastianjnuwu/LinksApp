@@ -41,7 +41,7 @@
     "js-cookie": "^3.0.5",
     "sass": "1.69.7",
     "sirv-cli": "2.0.2",
-    "svelte-fa": "^3.0.2",
+    "svelte-fa": "^4.0.0",
     "svelte-seo": "1.5.4"
   },
   "repository": {
